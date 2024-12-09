@@ -1,0 +1,13 @@
+C:\Projects\TiffUtility\TiffUtility\bin\Debug\TiffUtility.exe.config
+C:\Projects\TiffUtility\TiffUtility\bin\Debug\TiffUtility.exe
+C:\Projects\TiffUtility\TiffUtility\bin\Debug\TiffUtility.pdb
+C:\Projects\TiffUtility\TiffUtility\bin\Debug\BitMiracle.LibTiff.NET.dll
+C:\Projects\TiffUtility\TiffUtility\bin\Debug\BitMiracle.LibTiff.NET.xml
+C:\Projects\TiffUtility\TiffUtility\obj\Debug\TiffUtility.csproj.AssemblyReference.cache
+C:\Projects\TiffUtility\TiffUtility\obj\Debug\TiffUtility.Form1.resources
+C:\Projects\TiffUtility\TiffUtility\obj\Debug\TiffUtility.Properties.Resources.resources
+C:\Projects\TiffUtility\TiffUtility\obj\Debug\TiffUtility.csproj.GenerateResource.cache
+C:\Projects\TiffUtility\TiffUtility\obj\Debug\TiffUtility.csproj.CoreCompileInputs.cache
+C:\Projects\TiffUtility\TiffUtility\obj\Debug\TiffUtility.csproj.CopyComplete
+C:\Projects\TiffUtility\TiffUtility\obj\Debug\TiffUtility.exe
+C:\Projects\TiffUtility\TiffUtility\obj\Debug\TiffUtility.pdb
